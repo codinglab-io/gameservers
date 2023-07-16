@@ -1,0 +1,12 @@
+{
+  "name": "gameservers",
+  "description": "",
+  "author": "Codinglab <codinglabio@gmail.com>",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "echo \"Error: no build\" && exit 1",
+    "start": "echo \"Error: no start\" && exit 1"
+  },
+  "license": "MIT"
+}
